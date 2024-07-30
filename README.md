@@ -1,16 +1,14 @@
-## Hi there 👋
+## BEM VINDOS AO PERFIL DO BRUNO 🔑 
 
-<!--
-**brunochave/brunochave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bruno e estudo no Robert Kennedy 😝
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou estudando na Alura 📘
+
+-Estou me desenvolvendo na linguagem JavaScript 👨‍🎓
+
+"Para ter algo que nunca teve, você tem que fazer algo que nunca fez"📖
+
+
+![]()
+![image](https://github.com/user-attachments/assets/ea62cb1d-36cc-40f7-9f4e-699a895532bd)
